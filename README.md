@@ -1,4 +1,4 @@
-Certainly! Here's a README file for the TikTok Comment Scraper script in English, including a thank-you message to xTekky:
+
 
 ---
 
